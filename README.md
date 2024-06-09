@@ -3,9 +3,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ## 🚀 About Me
-I'm a Flutter developer, keen to explore new technologies. Currently working a crossplateform mobile application development. With expertise in the Flutter framework, APIs, databases, MVVM, BLOC, and more, I thrive on building innovative solutions and pushing the boundaries of what's possible in app development. 
+I'm a Flutter developer, keen to explore new technologies. Currently working a crossplateform mobile application development.
 
-I'm passionate about leveraging technology to create meaningful experiences and solve real-world challenges. Let's connect and explore how we can innovate together.
 
 ## 🔭 I’m currently working on
 - [ChatBot Allen]()
@@ -37,5 +36,3 @@ I'm passionate about leveraging technology to create meaningful experiences and 
 ## 📈 GitHub Stats
 ![Activity](https://github-readme-stats.vercel.app/api?username=abhisheksaxena85&show_icons=true)
 
-
-## 🏆 GitHub Trophies
