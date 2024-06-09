@@ -35,6 +35,7 @@ I'm passionate about leveraging technology to create meaningful experiences and 
 
 
 ## 📈 GitHub Stats
+![Activity](https://github-readme-stats.vercel.app/api?username=abhisheksaxena85&show_icons=true)
 
 
 ## 🏆 GitHub Trophies
