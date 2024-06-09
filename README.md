@@ -32,6 +32,8 @@ I'm a Flutter developer, keen to explore new technologies. Currently working a c
 - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
 
+## 📊 Mostly Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaxena85&layout=compact&theme=default)
 
 ## 📈 GitHub Stats
 ![Activity](https://github-readme-stats.vercel.app/api?username=abhisheksaxena85&show_icons=true)
