@@ -5,10 +5,6 @@
 ## 🚀 About Me
 I'm a Flutter developer, keen to explore new technologies. Currently working a crossplateform mobile application development. With expertise in the Flutter framework, APIs, databases, MVVM, BLOC, and more, I thrive on building innovative solutions and pushing the boundaries of what's possible in app development. 
 
-Driven by a curiosity for emerging technologies, I continuously seek to expand my knowledge and stay ahead of industry trends. My approach to problem-solving involves meticulous observation and a commitment to continuous improvement. 
-
-While my focus has primarily been on honing my technical skills, I also recognize the importance of effective teamwork and collaboration. Although I haven't yet explored team-building firsthand, I'm eager to leverage my strengths and contribute positively to collaborative environments.
-
 I'm passionate about leveraging technology to create meaningful experiences and solve real-world challenges. Let's connect and explore how we can innovate together.
 
 ## 🔭 I’m currently working on
