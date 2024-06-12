@@ -10,11 +10,7 @@ I'm a Flutter developer, keen to explore new technologies. Currently working a c
 
 ## 🔭 I’m currently working on
 - [ChatBot Allen](https://github.com/abhisheksaxena85/chatbot_allen)
-
-## 🌱 I’m currently learning
-- [Skill/Flutter]
-- [Skill/FlutterTesting]
-
+ki
 
 ## 📫 How to reach me
 - Email: [abhisheksaxena904411@gmail.com]
@@ -36,4 +32,3 @@ I'm a Flutter developer, keen to explore new technologies. Currently working a c
 
 ## 📈 GitHub Stats
 ![Activity](https://github-readme-stats.vercel.app/api?username=abhisheksaxena85&show_icons=true)
-
