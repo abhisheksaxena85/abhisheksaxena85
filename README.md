@@ -5,6 +5,8 @@
 ## 🚀 About Me
 I'm a Flutter developer, keen to explore new technologies. Currently working a crossplateform mobile application development.
 
+## 📊 Mostly Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaxena85&layout=compact&theme=default)
 
 ## 🔭 I’m currently working on
 - [ChatBot Allen](https://github.com/abhisheksaxena85/chatbot_allen)
@@ -31,9 +33,6 @@ I'm a Flutter developer, keen to explore new technologies. Currently working a c
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-
-## 📊 Mostly Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaxena85&layout=compact&theme=default)
 
 ## 📈 GitHub Stats
 ![Activity](https://github-readme-stats.vercel.app/api?username=abhisheksaxena85&show_icons=true)
