@@ -11,9 +11,6 @@ I'm a Flutter developer, keen to explore new technologies. Currently working a c
 ## 📊 Mostly Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaxena85&layout=compact&theme=default)
 
-## 🔭 I’m currently working on
-- [ChatBot Allen](https://github.com/abhisheksaxena85/chatbot_allen)
-
 
 ## 📫 How to reach me
 - Email: [abhisheksaxena904411@gmail.com]
