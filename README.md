@@ -13,7 +13,7 @@ I'm a Flutter developer, keen to explore new technologies. Currently working a c
 
 
 ## 📫 How to reach me
-- Email: [abhisheksaxena904411@gmail.com]
+- Email: [abhisheksaxena852828@gmail.com]
 - LinkedIn: [Abhishek Saxena](https://www.linkedin.com/in/abhishek-saxena-2aa894223/)
 
 
@@ -30,5 +30,3 @@ I'm a Flutter developer, keen to explore new technologies. Currently working a c
 - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
 
-## 📈 GitHub Stats
-![Activity](https://github-readme-stats.vercel.app/api?username=abhisheksaxena85&show_icons=true)
